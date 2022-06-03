@@ -1,7 +1,3 @@
-let generate_btn = document.querySelector(".generate_btn");
-
-generate_btn.addEventListener("click", fetchPics);
-
 function fetchPics(){
   let catsImgDiv = document.querySelector(".catsImgDiv")
   catsImgDiv.innerHTML=''
