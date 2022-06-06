@@ -1,7 +1,16 @@
-# Gerador De Gatos
+# 👷🏻 O Projeto
+Esse é um projeto desenvolvido por mim. O projeto é um site onde o usuário pode clicar um botão e fazer com que apareça um gato em sua tela. Primeiro foi feito o HTML com o título e o botão. Para gerar as fotos dos gatos utilizei uma API do site thecatapi.com, essa API traz uma resposta JSON que contém um link com uma imagem JPG de um gato. Para fazer essa API funcionar, foi utilizado um JavaScript que pega essa resposta JSON e puxa o url da imagem, fazendo com que ela apareça no HTML. Por último criei o CSS, customizando o site para ficar mais bonito, responsivo e agradável para o usuário.
 
-Nesse projeto, eu decidi criar um site que gera uma foto aleatória de um gato.
+# 🚀 Tecnologias
+Estas são as tecnologias utilizadas no desenvolvimento do projeto:
+- HTML
+- CSS
+- JavaScript
 
-Primeiro foi feito o HTML com o título e o botão, para gerar as fotos dos gatos utilizei uma API do site thecatapi.com, essa API traz uma resposta JSON que contém um link com uma imagem JPG de um gato. Para fazer essa API funcionar, foi utilizado um JavaScript que pega essa resposta JSON e puxa o url da imagem, fazendo com que ela apareça no HTML.
-
-Por último criei o CSS, customizando o site para ficar mais bonito, responsivo e agradável para o usuário.
+________________________________________________________________________________________________________________________________________________________________________________
+<div align="center">
+  <p>Desenvolvido com 💙 Pedro Henrique Gomes Chagas</p> <br>
+  <p>☎️ Entre em contato!<p> <br>
+  <a href = "mailto:phenriquegc12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a display="flex" text-align="center" href="https://www.linkedin.com/in/pedrogchagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
