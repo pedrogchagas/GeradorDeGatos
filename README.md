@@ -11,6 +11,5 @@ ________________________________________________________________________________
 <div align="center">
   <p>Desenvolvido com 💙 Pedro Henrique Gomes Chagas</p> <br>
   <p>☎️ Entre em contato!<p> <br>
-  <a href = "mailto:phenriquegc12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a display="flex" text-align="center" href="https://www.linkedin.com/in/pedrogchagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
